@@ -1,0 +1,8 @@
+1. Replaced  ANTIALIAS with Resampling.LANCZOS because it is deprecated in newer version of Pillow library.
+2. Commented the code for save import from numpy as it was throwing error for import from numpy.
+3. changed the library "import mysql.connector" to "import pymysql".
+4. Changed the code 
+    FROM
+        mysql.connector.connect(host="localhost",username="root",password="Rohit@123",database="face_recognizer")
+    To 
+        pymysql.connect(host="localhost",user="root",password="Rohit@123",database="face_recognizer")

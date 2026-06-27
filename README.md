@@ -240,7 +240,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Rohit Chaudhari**
+**Rohit Chaudhary**
 - GitHub: [@rohitch2710](https://github.com/rohitch2710)
 - Live Demo: [face-detection-attendence-system.vercel.app](https://face-detection-attendence-system.vercel.app)
 
